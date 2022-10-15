@@ -13,8 +13,8 @@ body {
 }
 
 #body {
-  /* display: none; */
-  background-image: url(https://wallpapercave.com/wp/wp3770465.jpg);
+  display: none;
+  background-color: rgba(0, 0, 0, 0);
 }
 
 .container {
