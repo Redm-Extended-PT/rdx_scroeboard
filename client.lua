@@ -1,11 +1,3 @@
---[[
-        
-        💬 Export from K1Dev => discord: https://discord.gg/awayfromus ] 
-        🐌 @Copyright K1Dev
-        ☕ Thanks For Coffee Tips 
-        🧠 Development team => "RDX-Dev"
---]]
-
 RDX = nil
 local display = false
 local keys = 0x4AF4D473
